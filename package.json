@@ -1,0 +1,18 @@
+{
+  "name": "cursor-model-benchmark",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Comparative benchmarking analysis across Claude 3.5 Sonnet, GPT-4o, and Cursor-Small for MLH Hacktoberfest Challenge 2.",
+  "scripts": {
+    "test": "node --experimental-strip-types benchmark-implementations.ts"
+  },
+  "keywords": [
+    "cursor",
+    "mlh",
+    "benchmark",
+    "llm",
+    "typescript"
+  ],
+  "author": "Farhan Shaikh",
+  "license": "MIT"
+}
